@@ -3,7 +3,6 @@
 # IG : @olahdatasemarang_
 # Estimate Fama-MacBeth Regressions Use estimate_fama_macbeth (tidyfinance) With (In) R Software
 install.packages("tidyfinance")
-
 library("tidyfinance")
 # Estimate Fama-MacBeth Regressions Use estimate_fama_macbeth (tidyfinance) With (In) R Software
 estimate_fama_macbeth_ = read.csv("https://raw.githubusercontent.com/timbulwidodostp/estimate_fama_macbeth/main/estimate_fama_macbeth/estimate_fama_macbeth.csv",sep = ";")
