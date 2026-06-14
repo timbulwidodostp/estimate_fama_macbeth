@@ -1,6 +1,8 @@
 # estimate_fama_macbeth
 Estimate Fama-MacBeth Regressions Use estimate_fama_macbeth (tidyfinance) With (In) R Software
 
+https://www.youtube.com/watch?v=rdCv-ZSCxbo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
